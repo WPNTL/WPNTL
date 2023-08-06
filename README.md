@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-🔭 Dev Front-End atualmente trabalhando em projetos independentes<br>🤝 Procurando Fortalecer a comunidade Dev<br>🌱 Atualmente na cursando superior em Análise e Desenvolvimento de Sistemas<br>💬 Ask me about dev and nerd stuffs<br>⚡ Fun fact, essa é minha terceira conta GitHub
+🔭 Dev Front-End atualmente trabalhando em projetos independentes<br>🤝 Procurando Fortalecer a comunidade Dev<br>🌱 Atualmente  cursando superior em Análise e Desenvolvimento de Sistemas<br>💬 Ask me about dev and nerd stuffs<br>⚡ Fun fact, essa é minha terceira conta GitHub
 
 
 ## 🌐 Socials:
